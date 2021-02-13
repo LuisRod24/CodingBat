@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a51c11-8763-422a-86db-2db4cb2351c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/string_2/doubleChar_H.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/string_2/doubleChar_H.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
